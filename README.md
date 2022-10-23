@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**YimingMa/YimingMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Ph.D. student at the [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) of the [University of Warwick](https://warwick.ac.uk/).
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Python-orange)](https://www.python.org/) [![](https://img.shields.io/badge/Julia-orange)](https://www.python.org/) [![](https://img.shields.io/badge/ArchLinux-blue)](https://www.archlinux.org/)
+ [![](https://img.shields.io/github/followers/YimingMa?style=social)](https://www.github.com/yimingma) [![](https://img.shields.io/twitter/follow/yiming_ma_?style=social)](https://www.twitter.com/yiming_ma_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently working on [crowd counting](https://en.wikipedia.org/wiki/Crowd_counting) & [driver monitoring systems](https://en.wikipedia.org/wiki/Driver_monitoring_system).
+- ⭐️ I’m interested in bringing more mathematical concepts & insights into computer vision.
+- 📧 Contact: [yiming.ma.1@warwick.ac.uk](mailto:yiming.ma.1@warwick.ac.uk)
+- 👨 Pronouns: he/him.
+- ⚡️ Fun fact: I have the ambition to a multilingual and am currently learning Français 🇫🇷.
+
+![](https://github-readme-stats.vercel.app/api?username=YimingMa)
