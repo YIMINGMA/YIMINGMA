@@ -9,6 +9,5 @@ I am a Ph.D. student at the [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/
 - ⭐️ I’m interested in bringing more mathematical concepts & insights into computer vision.
 - 📧 Contact: [yiming.ma.1@warwick.ac.uk](mailto:yiming.ma.1@warwick.ac.uk)
 - 👨 Pronouns: he/him.
-- ⚡️ Fun fact: I have the ambition to a multilingual and am currently learning Français 🇫🇷.
 
-![](https://github-readme-stats.vercel.app/api?username=YimingMa)
+![](https://github-readme-stats.vercel.app/api?username=Yiming-M)
