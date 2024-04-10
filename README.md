@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at the [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) of the [University of Warwick](https://warwick.ac.uk/).
 
-[![](https://img.shields.io/badge/Python-orange)](https://www.python.org/) [![](https://img.shields.io/badge/PyTorch-green)](https://pytorch.org/) [![](https://img.shields.io/badge/ArchLinux-blue)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Python-orange)](https://www.python.org/) [![](https://img.shields.io/badge/PyTorch-green)](https://pytorch.org/)
  [![](https://img.shields.io/github/followers/yiming-m?style=social)](https://www.github.com/yiming-m) [![](https://img.shields.io/twitter/follow/yiming_ma_?style=social)](https://www.twitter.com/yiming_ma_)
 
 - 👨‍💻 I’m currently working on multimodality, with applications in [crowd counting](https://en.wikipedia.org/wiki/Crowd_counting) & [driver monitoring systems](https://en.wikipedia.org/wiki/Driver_monitoring_system).
